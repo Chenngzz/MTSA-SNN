@@ -42,15 +42,12 @@ frequencies and spatial scale. Specifically, the LL subband contains the low-fre
 <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/Wavelet%20Transform.png" width="600" height="500">
 
 
-
+# The visualization of training and ablation experiments.
 <p align="center">
   <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/heatmap.png" width="500" height="450" alt="猫图片">
   <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/waveform.png" width="500" height="450" alt="狗图片">
 </p>
 
 
-* 斜体 *
-** 粗体 **
-[链接](http://www.example.com)
-![图像](http://www.example.com/image.jpg)
-- 列表项目
+
+
