@@ -43,7 +43,7 @@ frequencies and spatial scale. Specifically, the LL subband contains the low-fre
 
 <div style="display: flex;">
     <img src = "https://github.com/Chenngzz/MTSA-SNN/blob/main/image/heatmap.png" style="width: 50%;" alt="猫图片">
-    <img src="https://example.com/dog.jpg" style="width: 50%;" alt="狗图片">
+    <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/waveform.png" style="width: 50%;" alt="狗图片">
 </div>
 
 * 斜体 *
