@@ -28,7 +28,7 @@ analyzing intricate temporal information
 - [scikit-learn](https://scikit-learn.org/stable/index.html) = 1.2.2
 - [CUDA](https://developer.nvidia.com/cuda-toolkit) >= 11.3
 
-![替代文本]("C:\Users\l1866\Desktop\SNN_net.png")
+
 
 ## 子标题
 * 斜体 *
