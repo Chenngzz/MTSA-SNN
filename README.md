@@ -32,7 +32,6 @@ analyzing intricate temporal information
 ![MTSA_SNN Overall Model](https://github.com/Chenngzz/MTSA-SNN/blob/main/image/SNN_net.png)
 
 # Model Structure
-![MTSA_SNN Overall Model](https://github.com/Chenngzz/MTSA-SNN/blob/main/image/workflow.png)
 <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/workflow.png" width="600" height="350">
 
 # Wavelet Transform
