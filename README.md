@@ -29,7 +29,7 @@ analyzing intricate temporal information
 - [CUDA](https://developer.nvidia.com/cuda-toolkit) >= 11.3
 
 
-![替代文本]('https://github.com/Chenngzz/MTSA-SNN/blob/main/image/SNN_net.png')
+![替代文本](https://github.com/Chenngzz/MTSA-SNN/blob/main/image/SNN_net.png)
 
 ## 子标题
 * 斜体 *
