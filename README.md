@@ -48,6 +48,9 @@ frequencies and spatial scale. Specifically, the LL subband contains the low-fre
   <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/waveform.png" width="500" height="450" alt="狗图片">
 </p>
 
+# Training and evaluation
+Run model_train_test.py &  MTSA-SNN_dataloader.py
+
 
 
 
