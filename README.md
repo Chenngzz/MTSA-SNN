@@ -18,6 +18,17 @@ demonstrate that our method achieved superior performance on
 three complex time-series tasks. This work provides an effective
 event-driven approach to overcome the challenges associated with
 analyzing intricate temporal information
+## Requirements
+
+- [PyTorch](https://pytorch.org/) >= 1.10.1
+- [Python](https://www.python.org/) >= 3.7
+- [Einops](https://github.com/arogozhnikov/einops) = 0.6.1
+- [NumPy](https://numpy.org/) = 1.24.3
+- [TorchVision](https://pytorch.org/vision/stable/transforms.html) = 0.9.1+cu111
+- [scikit-learn](https://scikit-learn.org/stable/index.html) = 1.2.2
+- [CUDA](https://developer.nvidia.com/cuda-toolkit) >= 11.3
+
+
 ## 子标题
 * 斜体 *
 ** 粗体 **
