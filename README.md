@@ -31,6 +31,9 @@ analyzing intricate temporal information
 # MTSA_SNN Overall Model
 ![MTSA_SNN Overall Model](https://github.com/Chenngzz/MTSA-SNN/blob/main/image/SNN_net.png)
 
+# Model Structure
+![MTSA_SNN Overall Model](https://github.com/Chenngzz/MTSA-SNN/blob/main/image/workflow.png)
+
 
 # Wavelet Transform
 MTSP-SNN employs wavelet transform to decompose input
