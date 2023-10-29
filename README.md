@@ -33,6 +33,10 @@ analyzing intricate temporal information
 
 
 # Wavelet Transform
+MTSP-SNN employs wavelet transform to decompose input
+signals into four subbands: LL, LH, HH and HL, which
+represent distinct signal characteristics in terms of different
+frequencies and spatial scale
 <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/Wavelet%20Transform.png" width="600" height="500">
 * 斜体 *
 ** 粗体 **
