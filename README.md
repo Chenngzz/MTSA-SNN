@@ -45,7 +45,7 @@ frequencies and spatial scale. Specifically, the LL subband contains the low-fre
 
 <p align="center">
   <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/heatmap.png" width="500" height="450" alt="猫图片">
-  <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/waveform.png" width="500" alt="狗图片">
+  <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/waveform.png" width="500" height="450" alt="狗图片">
 </p>
 
 
