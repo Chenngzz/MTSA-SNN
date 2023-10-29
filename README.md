@@ -33,7 +33,6 @@ analyzing intricate temporal information
 
 
 # Wavelet Transform
-![MTSA_SNN Overall Model](https://github.com/Chenngzz/MTSA-SNN/blob/main/image/Wavelet%20Transform.png)
 <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/Wavelet%20Transform.png" width="600" height="500">
 * 斜体 *
 ** 粗体 **
