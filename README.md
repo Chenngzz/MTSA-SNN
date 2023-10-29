@@ -41,10 +41,13 @@ represent distinct signal characteristics in terms of different
 frequencies and spatial scale. Specifically, the LL subband contains the low-frequency components of the signal. In contrast, the LH and HH subbands capture the high-frequency components of both low and high-frequency signals, respectively, corresponding to different signal frequencies. The HL subband contains the low-frequency components of high-frequency signals.
 <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/Wavelet%20Transform.png" width="600" height="500">
 
-<div style="display: flex;">
-    <img src = "https://github.com/Chenngzz/MTSA-SNN/blob/main/image/heatmap.png" style="width: 50%;" alt="猫图片">
-    <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/waveform.png" style="width: 50%;" alt="狗图片">
-</div>
+
+
+<p align="center">
+  <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/heatmap.png" width="300" alt="猫图片">
+  <img src="https://github.com/Chenngzz/MTSA-SNN/blob/main/image/waveform.png" width="300" alt="狗图片">
+</p>
+
 
 * 斜体 *
 ** 粗体 **
